@@ -67,6 +67,9 @@ instance/
 
 # Scrapy stuff:
 .scrapy
+crawls/
+logs/log.txt
+output/
 
 # Sphinx documentation
 docs/_build/
@@ -127,3 +130,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Pycharm
+.idea/
